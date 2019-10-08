@@ -1,0 +1,6 @@
+I"§<ol>
+  <li>deploy back-end on AWS, should be flask</li>
+  <li>deploy front-end on AWS, should be react or angular</li>
+  <li>connect database with back-end</li>
+</ol>
+:ET
